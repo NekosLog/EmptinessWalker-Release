@@ -1,0 +1,15 @@
+﻿/* 制作日
+*　製作者
+*　最終更新日
+*/
+
+using UnityEngine;
+ 
+public struct #SCRIPTNAME# {
+	
+
+	/* public static #SCRIPTNAME# opretaor +(#SCRIPTNAME a,#SCRIPTNAME# b)
+	*  {
+	*  }
+	*/
+}
