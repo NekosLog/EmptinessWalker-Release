@@ -1,0 +1,14 @@
+〇使用したアセットURL
+
+・キャラクターアセット
+https://assetstore.unity.com/packages/3d/characters/humanoids/atart-character-bundle-198121
+
+・エフェクト
+https://assetstore.unity.com/packages/vfx/particles/sword-slashes-pro-173450
+https://assetstore.unity.com/packages/tools/utilities/support-package-for-hovl-studio-assets-157764
+
+・ステージオブジェクト
+https://assetstore.unity.com/packages/3d/environments/dungeons/tileable-maze-and-dungeon-blocks-259878
+
+・ライブラリアセット
+https://assetstore.unity.com/packages/tools/integration/unirx-reactive-extensions-for-unity-17276
