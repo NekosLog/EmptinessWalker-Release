@@ -1,0 +1,34 @@
+// ----------------------------------------------------------------------------
+// 作成者 
+// 作成開始日 
+// 特筆事項 
+// ----------------------------------------------------------------------------
+using UnityEngine;
+
+public class #SCRIPTNAME# : MonoBehaviour
+{
+#region 変数群
+
+#endregion
+
+#region メソッド群
+	private void Awake()
+	{
+
+	}
+
+	private void Start()
+	{
+
+	}
+
+	private void Update()
+	{
+
+	}
+#endregion
+
+#region プロパティ群
+
+#endregion
+}

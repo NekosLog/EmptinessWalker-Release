@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbed72b50c0e5b94fad6718c44f9cdca, type: 3}
+  m_Name: StageData
+  m_EditorClassIdentifier: 
+  StageParameterList:
+  - StageNumber: S1A1
+    CameraOrigin: {x: 0, y: 0}
+    StageWidth: 12
+    StageHeight: 8
+  - StageNumber: S1A2
+    CameraOrigin: {x: 70, y: 0}
+    StageWidth: 20
+    StageHeight: 8
+  - StageNumber: S1A3
+    CameraOrigin: {x: 140, y: 0}
+    StageWidth: 20
+    StageHeight: 20
+  - StageNumber: S1A4
+    CameraOrigin: {x: 210, y: 35}
+    StageWidth: 24
+    StageHeight: 20
+  - StageNumber: S1A5
+    CameraOrigin: {x: 140, y: 70}
+    StageWidth: 16
+    StageHeight: 20
+  - StageNumber: S1A6
+    CameraOrigin: {x: 70, y: 35}
+    StageWidth: 0
+    StageHeight: 0
+  - StageNumber: S1A7
+    CameraOrigin: {x: 70, y: 70}
+    StageWidth: 26
+    StageHeight: 0
+  - StageNumber: S1A8
+    CameraOrigin: {x: 0, y: 70}
+    StageWidth: 0
+    StageHeight: 0
+  - StageNumber: S1A9
+    CameraOrigin: {x: 70, y: 140}
+    StageWidth: 16
+    StageHeight: 24
+  - StageNumber: S1A10
+    CameraOrigin: {x: 140, y: 140}
+    StageWidth: 36
+    StageHeight: 12
